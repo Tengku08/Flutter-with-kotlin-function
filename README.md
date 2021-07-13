@@ -1,4 +1,4 @@
-#  flutter x kotlin 
+#  Flutter x Kotlin 
 
 Example project for using old or existing apps that build using kotlin, so the apps can be remake in flutter for better UI
 
