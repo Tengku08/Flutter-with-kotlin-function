@@ -2,6 +2,8 @@
 
 Example project for using old or existing apps that build using kotlin, so the apps can be remake in flutter for better UI
 
+For this example project i use simple calculator apps
+The UI is uisng dart or flutter then the input will parse or send to kotlin using Channel, the Kotlin languange or native will receive the string and will calculate it, after that will send back (return) to the UI (Flutter) using same channel.
 
 
 
